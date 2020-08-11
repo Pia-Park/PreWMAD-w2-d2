@@ -31,13 +31,13 @@ p {
     background-color: dodgerblue;
     display: flex;
     flex-direction: row;
-    padding: 1em;
+    padding: 2em;
 }
 
 .hate-box {
     background-color: crimson;
     display: flex;
     flex-direction: row;
-    padding: 1em;
+    padding: 2em;
 }
 
