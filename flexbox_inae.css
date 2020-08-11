@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    margin: 3em;
+    font-family: monospace;
+}
+
+h1 {
+    background-color: goldenrod;
+    justify-content: center;
+    text-align: center;
+    padding: 0.3em;
+}
+
+p {
+    background-color: black;
+    width: 10%;
+    text-align: center;
+    color: goldenrod;
+    padding: 0.6em;
+}
+
+.small-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.main-box {
+    background-color: goldenrod;
+    padding: 0.5em;
+}
